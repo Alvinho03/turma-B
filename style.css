@@ -2,3 +2,10 @@ body{
     background-color: hsl(58, 54%, 51%);
     color: rgb(32, 22, 9);
 }
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+            padding-top: 80px;
+    }
+
+
