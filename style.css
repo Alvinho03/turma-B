@@ -9,9 +9,11 @@ section {
     display: flex; /* torna flexivel = poe um do lado do outro */
     justify-content: center;
 }
-div{
+ .chamada-texto{
     margin-right: 100;
 }
-        
+     
+
+        }
 
 
