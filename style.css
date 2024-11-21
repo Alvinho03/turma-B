@@ -3,6 +3,10 @@ body{
     color: rgb(32, 22, 9);
     font-family:  "Sevillana"
 }
+h1{ font-size: 30px;
+    color: white;
+
+}
 .chamada {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
